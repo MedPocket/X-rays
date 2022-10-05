@@ -1,4 +1,7 @@
 # X-rays
+
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/X-rays?logo=github&label=Download)](https://github.com/MedPocket/X-rays/archive/refs/heads/main.zip)
+
 X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body.
 The images show the parts of your body in different shades of black and white.
 This is because different tissues absorb different amounts of radiation.
@@ -6,6 +9,7 @@ This is because different tissues absorb different amounts of radiation.
 ![X-rays](x-rays.jpg)
 
 ## License
+
 Copyright &copy; MedPocket. All rights reserved.
 
 Licensed under the [CC0-1.0](LICENSE) license.
